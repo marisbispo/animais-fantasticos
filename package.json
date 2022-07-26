@@ -1,12 +1,11 @@
 {
-  "name": "animais-lint",
+  "name": "animais-fantasticos",
   "version": "1.0.0",
   "main": "index.html",
   "scripts": {
     "dev": "webpack --mode development --watch ",
     "build": "webpack --mode production"
   },
-  "author": "",
   "license": "ISC",
   "description": "",
   "devDependencies": {
