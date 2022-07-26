@@ -23,5 +23,3 @@ export default function initTabNav() {
     });
   }
 }
-
-console.log('its never wrong when is about love');
